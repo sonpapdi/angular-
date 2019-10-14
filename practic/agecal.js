@@ -10,5 +10,5 @@ function calculateAge (birthDate, otherDate) {
     }
 
     return years;
-console.log(calculateAge("12/10/1998","12/6/1899"))
+console.log(calculateAge("12/2/1998")
 }
