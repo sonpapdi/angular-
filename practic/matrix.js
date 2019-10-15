@@ -53,4 +53,4 @@ console.log("substraction of matrix is");
 console.log(subMatrices(m1, m2)) ;
 
 console.log("multipication of matrix is");+
-console.log(multiplyMatrices(m1, m2)) ;
+console.table(multiplyMatrices(m1, m2)) ;
