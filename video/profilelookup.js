@@ -9,7 +9,7 @@ var contacts=[
         "first name":"sampu",
         "last name":"nakate",
         "number":"9807678900",
-        "likes":["sonkadi","papdi","panipuri"]  
+        "likes":["kadi","papdi","panipuri"]  
     },
     {
         "first name":"akshu",
