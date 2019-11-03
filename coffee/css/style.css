@@ -1,15 +1,6 @@
-.header{
-    height: 50vh;
-    width: 20vw;
-    background: yellow;
+body{
+    font-family:  "robota",sans-serif
 }
-.banner{
-    height: 30vh;
-    width: 9vw;
-    background: yellowgreen;
-}
-*{
-    padding: 0;
-    margin: 0;
-    box-sizing:  border-box;
+h1{
+    font-family: "yesteryear",cursive
 }
