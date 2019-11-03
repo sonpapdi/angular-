@@ -1,18 +1,19 @@
-#first{
-    color: rgb(0,0,260)
-    backdrop-filter:red;
 
+div{
+    color: #00ff00;
+    background: brown;
 }
-#second{
-    color:rgb(red, green, blue)
-    border-color: rgb(57, 87, 70);
-background-color: teal;
+#first{
+    color: #00ff00;
+background-color: blanchedalmond;
+}
+#second
+{
+    color: cornflowerblue;
+    background-origin: padding-box;
 }
 #three{
-    color: yellow;
-    background-color: yellowgreen;
+    color: darkgreen;
+    background: darksalmon;
 }
-body{
-    background: rgb(250, 114, 159);
     
-}
