@@ -1,12 +1,7 @@
-/*percent values relatives*/
-.inner{
-    width: 50%;
-    height: 50%;
-    background: red;
-    
+/*relative and absolute*/
+.relative{
+    font-size: 2em;
 }
-.outer{
-    width: 500px;
-    height: 500px;
-    background: yellow;
+.absolute{
+    font-size: 32px;
 }
