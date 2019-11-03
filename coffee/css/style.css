@@ -1,7 +1,15 @@
-/*relative and absolute*/
-.relative{
-    font-size: 2em;
+.header{
+    height: 50vh;
+    width: 20vw;
+    background: yellow;
 }
-.absolute{
-    font-size: 32px;
+.banner{
+    height: 30vh;
+    width: 9vw;
+    background: yellowgreen;
+}
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing:  border-box;
 }
